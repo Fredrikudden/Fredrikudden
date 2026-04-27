@@ -1,4 +1,4 @@
-I'm an fullstack AI developer with a passion for turning messy real-world data into useful products. Currently studying **AI & Python Development** at Nackademin, while shipping production apps on the side.
+I'm a fullstack AI developer with a passion for turning messy real-world data into useful products. Currently studying **AI & Python Development** at Nackademin, while shipping production apps on the side.
 
 ---
 
